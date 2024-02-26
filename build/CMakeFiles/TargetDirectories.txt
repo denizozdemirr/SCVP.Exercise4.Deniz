@@ -1,0 +1,3 @@
+/home/deniz/github cloned/SCVP.Exercise4/build/CMakeFiles/exercise4.dir
+/home/deniz/github cloned/SCVP.Exercise4/build/CMakeFiles/edit_cache.dir
+/home/deniz/github cloned/SCVP.Exercise4/build/CMakeFiles/rebuild_cache.dir
